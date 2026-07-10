@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dinh Kiet
+### I am currently studying Mechatronics and robotics engineer at HCMUT
 
-<!--
-**dinhkiet3308-beep/dinhkiet3308-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tech Stack & System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Robotics & Middleware** | ROS 2, OpenCV |
+| **Firmware & Low-Level** | C, C++, FreeRTOS, ESP32 |
+| **High-Level & Cloud** | Python, Docker |
+| **Frontend & Simulation** | Gazebo, Webots, Isaac Sim |
+
+## 📫 Connect with Me
+* 💼 LinkedIn: https://www.linkedin.com/in/ki%E1%BB%87t-%C4%91inh-59104b382/
+* 🌐 Portfolio/Website:
+* ✉️ Email: dinhkiet3308@gmail.com
